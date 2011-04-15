@@ -1,0 +1,1382 @@
+TNetServices
+v7
+r0
+t322233851.925661
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC11D4800000000000002FE
+t1287724360
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC11D1700000000000000CD
+t1287724311
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC11D2E0000000000112F80
+t1287724334
+s1126272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/../ContactViewController.m
+c000000004D8A4D310000000000000BDB
+t1300909361
+s3035
+i"ContactViewController.h"
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/../SecondViewController.m
+c000000004D83D37A0000000000000948
+t1300484986
+s2376
+i"SecondViewController.h"
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/AboutViewController.h
+c000000004D846C460000000000000108
+t1300524102
+s264
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/AboutViewController.m
+c000000004D846C5A00000000000005FC
+t1300524122
+s1532
+i"AboutViewController.h"
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/FirstViewController.h
+c000000004D8CBB0F00000000000001BB
+t1301068559
+s443
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/FirstViewController.m
+c000000004D8CC0D30000000000000F1C
+t1301070035
+s3868
+i"FirstViewController.h"
+i<ifaddrs.h>
+i<arpa/inet.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/MBProgressHUD.h
+c000000004D49ECF20000000000002E88
+t1296690418
+s11912
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/MBProgressHUD.m
+c000000004D49ECF20000000000004EF8
+t1296690418
+s20216
+i"MBProgressHUD.h"
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/iNETAppDelegate.h
+c000000004D83B7DA00000000000001D1
+t1300477914
+s465
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/iNETAppDelegate.m
+c000000004D83B7DA0000000000000C34
+t1300477914
+s3124
+i"iNETAppDelegate.h"
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/ContactViewController.h
+c000000004D84F4060000000000000194
+t1300558854
+s404
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Default.png
+c000000004D85EA96000000000000890A
+t1300621974
+s35082
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Default@2x.png
+c000000004D85EAEA000000000001289E
+t1300622058
+s75934
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/FirstView.xib
+c000000004D83B7DA00000000000049CE
+t1300477914
+s18894
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Icon.png
+c000000004D8490390000000000001B85
+t1300533305
+s7045
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Icon@2x.png
+c000000004D84905C0000000000004DD2
+t1300533340
+s19922
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/MainWindow.xib
+c000000004D9629D60000000000013E59
+t1301686742
+s81497
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/NetServices_Prefix.pch
+c000000004D83B7DA00000000000000B1
+t1300477914
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/SecondView.xib
+c000000004D83B7DA00000000000049CC
+t1300477914
+s18892
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/SecondViewController.h
+c000000004D83D1BC00000000000001C7
+t1300484540
+s455
+i<UIKit/UIKit.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app
+t1300541051
+s748
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app.dSYM
+t1300540933
+s102
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Default.png
+t2
+s0
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Default@2x.png
+t2
+s0
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/FirstView.nib
+t1300531997
+s1743
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Icon.png
+t1300540921
+s7624
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Icon@2x.png
+t1300540922
+s21194
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Info.plist
+t1300540920
+s787
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/MainWindow.nib
+t1300541051
+s9022
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/NetServices
+t1300540933
+s64808
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/PkgInfo
+t1300540920
+s8
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/SecondView.nib
+t1300531997
+s1742
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/chart.png
+t1300531997
+s508
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/chart@2x.png
+t1300531997
+s892
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/comment.png
+t1300531997
+s289
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/comment@2x.png
+t1300531997
+s368
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/info.png
+t1300531997
+s451
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/info@2x.png
+t1300531997
+s1050
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/link.png
+t1300531997
+s556
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/link@2x.png
+t1300531997
+s1132
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/logo.png
+t1300531997
+s21412
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/logo@2x.png
+t1300531998
+s45074
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/man.png
+t1300531997
+s497
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/man@2x.png
+t1300531998
+s914
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/AboutViewController.o
+t1300532000
+s38952
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/ContactViewController.o
+t1300532000
+s46944
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/FirstViewController.o
+t1300540933
+s53464
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/MBProgressHUD.o
+t2
+s0
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices
+t1300540933
+s32044
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices.LinkFileList
+c000000004D84ADF800000000000002F0
+t1300540920
+s752
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/SecondViewController.o
+t1300532000
+s43460
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/iNETAppDelegate.o
+t1300532000
+s53800
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/main.o
+t1300532000
+s6424
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/AboutViewController.o
+t1300532000
+s38892
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/ContactViewController.o
+t1300532000
+s46792
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/FirstViewController.o
+t1300540932
+s53288
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/MBProgressHUD.o
+t2
+s0
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices
+t1300540933
+s27944
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices.LinkFileList
+c000000004D84ADF800000000000002F0
+t1300540920
+s752
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/SecondViewController.o
+t1300532000
+s43328
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/iNETAppDelegate.o
+t1300532000
+s53720
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/main.o
+t1300532000
+s6408
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/chart.png
+c000000004CC04DA60000000000000174
+t1287671206
+s372
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/chart@2x.png
+c000000004CC04B0B0000000000000304
+t1287670539
+s772
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/comment.png
+c000000004CBF6B550000000000000116
+t1287613269
+s278
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/comment@2x.png
+c000000004CBF6983000000000000019D
+t1287612803
+s413
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/info.png
+c000000004CC054C00000000000000186
+t1287673024
+s390
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/info@2x.png
+c000000004CC04F1C0000000000000386
+t1287671580
+s902
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/link.png
+c000000004CBF711C00000000000001C8
+t1287614748
+s456
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/link@2x.png
+c000000004CBF6FC100000000000003D2
+t1287614401
+s978
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/logo.png
+c000000004D846CBB00000000000069C9
+t1300524219
+s27081
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/logo@2x.png
+c000000004D846CAC000000000000F2BB
+t1300524204
+s62139
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/main.m
+c000000004D83B7DA0000000000000163
+t1300477914
+s355
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/man.png
+c000000004CBF72FE0000000000000178
+t1287615230
+s376
+
+N/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/man@2x.png
+c000000004CBF71BC0000000000000306
+t1287614908
+s774
+
+N/Users/pablo/Documents/iNET/Classes/../ContactViewController.m
+c000000004D8474E60000000000000BAB
+t1300526310
+s2987
+i"ContactViewController.h"
+
+N/Users/pablo/Documents/iNET/Classes/../LocationViewController.m
+c000000004D848CF30000000000000808
+t1300532467
+s2056
+i"LocationViewController.h"
+
+N/Users/pablo/Documents/iNET/Classes/../SecondViewController.m
+c000000004D83D37A0000000000000948
+t1300484986
+s2376
+i"SecondViewController.h"
+
+N/Users/pablo/Documents/iNET/Classes/AboutViewController.h
+c000000004D846C460000000000000108
+t1300524102
+s264
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/iNET/Classes/AboutViewController.m
+c000000004D846C5A00000000000005FC
+t1300524122
+s1532
+i"AboutViewController.h"
+
+N/Users/pablo/Documents/iNET/Classes/FirstViewController.h
+c000000004D8494FE00000000000001A7
+t1300534526
+s423
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pablo/Documents/iNET/Classes/FirstViewController.m
+c000000004D84961D0000000000001012
+t1300534813
+s4114
+i"FirstViewController.h"
+i<ifaddrs.h>
+i<arpa/inet.h>
+
+N/Users/pablo/Documents/iNET/Classes/iNETAppDelegate.h
+c000000004D83B7DA00000000000001D1
+t1300477914
+s465
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m
+c000000004D83B7DA0000000000000C34
+t1300477914
+s3124
+i"iNETAppDelegate.h"
+
+N/Users/pablo/Documents/iNET/ContactViewController.h
+c000000004D8474E8000000000000016E
+t1300526312
+s366
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/pablo/Documents/iNET/FirstView.xib
+c000000004D83B7DA00000000000049CE
+t1300477914
+s18894
+
+N/Users/pablo/Documents/iNET/Icon.png
+c000000004D8490390000000000001B85
+t1300533305
+s7045
+
+N/Users/pablo/Documents/iNET/Icon@2x.png
+c000000004D84905C0000000000004DD2
+t1300533340
+s19922
+
+N/Users/pablo/Documents/iNET/LocationViewController.h
+c000000004D84815600000000000001A4
+t1300529494
+s420
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pablo/Documents/iNET/MainWindow.xib
+c000000004D84AE76000000000001988A
+t1300541046
+s104586
+
+N/Users/pablo/Documents/iNET/NetServices_Prefix.pch
+c000000004D83B7DA00000000000000B1
+t1300477914
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/iNET/SecondView.xib
+c000000004D83B7DA00000000000049CC
+t1300477914
+s18892
+
+N/Users/pablo/Documents/iNET/SecondViewController.h
+c000000004D83D1BC00000000000001C7
+t1300484540
+s455
+i<UIKit/UIKit.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app
+t1300541051
+s748
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app.dSYM
+t1300540933
+s102
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/FirstView.nib
+t1300531997
+s1743
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon.png
+t1300540921
+s7624
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon@2x.png
+t1300540922
+s21194
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Info.plist
+t1300540920
+s787
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/MainWindow.nib
+t1300541051
+s9022
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices
+t1300540933
+s64808
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/PkgInfo
+t1300540920
+s8
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/SecondView.nib
+t1300531997
+s1742
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart.png
+t1300531997
+s508
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart@2x.png
+t1300531997
+s892
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment.png
+t1300531997
+s289
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment@2x.png
+t1300531997
+s368
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info.png
+t1300531997
+s451
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info@2x.png
+t1300531997
+s1050
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link.png
+t1300531997
+s556
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link@2x.png
+t1300531997
+s1132
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo.png
+t1300531997
+s21412
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo@2x.png
+t1300531998
+s45074
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man.png
+t1300531997
+s497
+
+N/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man@2x.png
+t1300531998
+s914
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/AboutViewController.o
+t1300532000
+s38952
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/ContactViewController.o
+t1300532000
+s46944
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/FirstViewController.o
+t1300540933
+s53464
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/LocationViewController.o
+t1300532000
+s43360
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices
+t1300540933
+s32044
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices.LinkFileList
+c000000004D84ADF800000000000002F0
+t1300540920
+s752
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/SecondViewController.o
+t1300532000
+s43460
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/iNETAppDelegate.o
+t1300532000
+s53800
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/main.o
+t1300532000
+s6424
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/AboutViewController.o
+t1300532000
+s38892
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/ContactViewController.o
+t1300532000
+s46792
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/FirstViewController.o
+t1300540932
+s53288
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/LocationViewController.o
+t1300532000
+s43284
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices
+t1300540933
+s27944
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices.LinkFileList
+c000000004D84ADF800000000000002F0
+t1300540920
+s752
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/SecondViewController.o
+t1300532000
+s43328
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/iNETAppDelegate.o
+t1300532000
+s53720
+
+N/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/main.o
+t1300532000
+s6408
+
+N/Users/pablo/Documents/iNET/chart.png
+c000000004CC04DA60000000000000174
+t1287671206
+s372
+
+N/Users/pablo/Documents/iNET/chart@2x.png
+c000000004CC04B0B0000000000000304
+t1287670539
+s772
+
+N/Users/pablo/Documents/iNET/comment.png
+c000000004CBF6B550000000000000116
+t1287613269
+s278
+
+N/Users/pablo/Documents/iNET/comment@2x.png
+c000000004CBF6983000000000000019D
+t1287612803
+s413
+
+N/Users/pablo/Documents/iNET/info.png
+c000000004CC054C00000000000000186
+t1287673024
+s390
+
+N/Users/pablo/Documents/iNET/info@2x.png
+c000000004CC04F1C0000000000000386
+t1287671580
+s902
+
+N/Users/pablo/Documents/iNET/link.png
+c000000004CBF711C00000000000001C8
+t1287614748
+s456
+
+N/Users/pablo/Documents/iNET/link@2x.png
+c000000004CBF6FC100000000000003D2
+t1287614401
+s978
+
+N/Users/pablo/Documents/iNET/logo.png
+c000000004D846CBB00000000000069C9
+t1300524219
+s27081
+
+N/Users/pablo/Documents/iNET/logo@2x.png
+c000000004D846CAC000000000000F2BB
+t1300524204
+s62139
+
+N/Users/pablo/Documents/iNET/main.m
+c000000004D83B7DA0000000000000163
+t1300477914
+s355
+i<UIKit/UIKit.h>
+
+N/Users/pablo/Documents/iNET/man.png
+c000000004CBF72FE0000000000000178
+t1287615230
+s376
+
+N/Users/pablo/Documents/iNET/man@2x.png
+c000000004CBF71BC0000000000000306
+t1287614908
+s774
+
+N/var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-bdspcucdkvvoswazfmikvbpbncae/NetServices_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-bgcgjvclqlrfdvesthysijouvpip/NetServices_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch.gch
+t1300531999
+s9983704
+
+N/var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch.gch
+t1300531999
+s10446552
+
+NNetServices-Info.plist
+c000000004D85EB7F0000000000000437
+t1300622207
+s1079
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324500930#324500930#0(96"[BEROR]CodeSign error: code signing is required for product type 'Application' in SDK 'iOS 4.2'1(4@88"CodeSign error: code signing is required for product type 'Application' in SDK 'iOS 4.2'324500930#18446744073709551615#0#0(1@0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/AboutViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/AboutViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/AboutViewController.o /Users/pablo/Documents/iNET/Classes/AboutViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224800.597577
+e322224800.675483
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/AboutViewController.o
+x/Users/pablo/Documents/iNET/Classes/AboutViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/pablo/Documents/iNET/Classes/AboutViewController.m322224800#322224800#0(0"0(0#0#57"/Users/pablo/Documents/iNET/Classes/AboutViewController.m8648019200#1721"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/AboutViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/AboutViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/ContactViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/../ContactViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/ContactViewController.o /Users/pablo/Documents/iNET/Classes/../ContactViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224800.674325
+e322224800.788463
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/ContactViewController.o
+x/Users/pablo/Documents/iNET/Classes/../ContactViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendmemail:]':
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:31: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:32: warning: missing sentinel in function call
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendemail:]':
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:46: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:49: warning: format not a string literal and no format arguments
+lSLF07#2@70"Compile /Users/pablo/Documents/iNET/Classes/../ContactViewController.m322224800#322224800#0(821"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendmemail:]':/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:31: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:32: warning: missing sentinel in function call/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendemail:]':/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:46: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:49: warning: format not a string literal and no format arguments4(22@99"Class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol322224800#116#176#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#31#0#31#0#45"class '*' does not implement the '*' protocol0(22@33"Missing sentinel in function call322224800#292#110#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#32#0#32#0#0"0(22@99"Class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol322224800#517#176#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#46#0#46#0#45"class '*' does not implement the '*' protocol0(22@51"Format not a string literal and no format arguments322224800#693#128#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#49#0#49#0#51"format not a string literal and no format arguments0(0#0#62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m8641706336#1728"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/../ContactViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/ContactViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/FirstViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/FirstViewController.o /Users/pablo/Documents/iNET/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322233731.946800
+e322233733.250072
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/FirstViewController.o
+x/Users/pablo/Documents/iNET/Classes/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalip]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:34: warning: unused variable 'trimURL'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:37: warning: control reaches end of non-void function
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalhost]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:40: warning: unused variable 'trimURL2'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:43: warning: control reaches end of non-void function
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController allinfo]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:46: warning: unused variable 'trimURL3'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:49: warning: control reaches end of non-void function
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: 'FirstViewController' may not respond to '-getIPAddress'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: (Messages without a matching method signature
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: will be assumed to return 'id' and accept
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: '...' as arguments.)
+lSLF07#2@65"Compile /Users/pablo/Documents/iNET/Classes/FirstViewController.m322233731#322233733#0(1511"/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalip]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:34: warning: unused variable 'trimURL'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:37: warning: control reaches end of non-void function/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalhost]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:40: warning: unused variable 'trimURL2'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:43: warning: control reaches end of non-void function/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController allinfo]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:46: warning: unused variable 'trimURL3'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:49: warning: control reaches end of non-void function/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: 'FirstViewController' may not respond to '-getIPAddress'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: (Messages without a matching method signature/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: will be assumed to return 'id' and accept/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: '...' as arguments.)8(22@25"Unused variable 'trimURL'322233733#108#97#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#34#0#34#0#19"unused variable '*'0(22@40"Control reaches end of non-void function322233733#205#112#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#37#0#37#0#40"control reaches end of non-void function0(22@26"Unused variable 'trimURL2'322233733#427#98#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#40#0#40#0#19"unused variable '*'0(22@40"Control reaches end of non-void function322233733#525#112#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#43#0#43#0#40"control reaches end of non-void function0(22@26"Unused variable 'trimURL3'322233733#742#98#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#46#0#46#0#19"unused variable '*'0(22@40"Control reaches end of non-void function322233733#840#112#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#49#0#49#0#40"control reaches end of non-void function0(22@56"'FirstViewController' may not respond to '-getIPAddress'322233733#1061#128#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#65#0#65#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322233733#1189#117#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#65#0#65#0#0"0(0#0#57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m8596354432#1721"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/FirstViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/FirstViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/LocationViewController.o /Users/pablo/Documents/iNET/Classes/../LocationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224800.676061
+e322224800.792023
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/LocationViewController.o
+x/Users/pablo/Documents/iNET/Classes/../LocationViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pablo/Documents/iNET/Classes/../LocationViewController.m322224800#322224800#0(0"0(0#0#63"/Users/pablo/Documents/iNET/Classes/../LocationViewController.m8641376480#1730"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/../LocationViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/LocationViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/MBProgressHUD.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/MBProgressHUD.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/SecondViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/../SecondViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/SecondViewController.o /Users/pablo/Documents/iNET/Classes/../SecondViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224800.300588
+e322224800.675947
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/SecondViewController.o
+x/Users/pablo/Documents/iNET/Classes/../SecondViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.m: In function '-[SecondViewController checkping:]':
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:13: warning: conflicting types for '-(id)checkping:(id)sender'
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.h:18: warning: previous declaration of '-(void)checkping:(id)sender'
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:40: warning: control reaches end of non-void function
+lSLF07#2@69"Compile /Users/pablo/Documents/iNET/Classes/../SecondViewController.m322224800#322224800#0(483"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m: In function '-[SecondViewController checkping:]':/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:13: warning: conflicting types for '-(id)checkping:(id)sender'/Users/pablo/Documents/iNET/Classes/../SecondViewController.h:18: warning: previous declaration of '-(void)checkping:(id)sender'/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:40: warning: control reaches end of non-void function3(22@49"Conflicting types for '-(id)checkping:(id)sender'322224800#113#125#0(6@61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m322177786#13#0#13#0#25"conflicting types for '*'0(22@53"Previous declaration of '-(void)checkping:(id)sender'322224800#238#129#0(6@61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.h322177340#18#0#18#0#0"0(22@40"Control reaches end of non-void function322224800#367#116#0(6@61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m322177786#40#0#40#0#40"control reaches end of non-void function0(0#0#61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m8643887488#1726"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/../SecondViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/SecondViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/iNETAppDelegate.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/iNETAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/iNETAppDelegate.o /Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224800.294039
+e322224800.674181
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/iNETAppDelegate.o
+x/Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m322224800#322224800#0(0"0(0#0#53"/Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m8621250432#1713"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/iNETAppDelegate.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/main.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/main.o /Users/pablo/Documents/iNET/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224800.271611
+e322224800.597327
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/main.o
+x/Users/pablo/Documents/iNET/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/pablo/Documents/iNET/main.m322224800#322224800#0(0"0(0#0#34"/Users/pablo/Documents/iNET/main.m8642240448#1683"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/main.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/AboutViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/AboutViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/AboutViewController.o /Users/pablo/Documents/iNET/Classes/AboutViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224800.795794
+e322224800.893922
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/AboutViewController.o
+x/Users/pablo/Documents/iNET/Classes/AboutViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/pablo/Documents/iNET/Classes/AboutViewController.m322224800#322224800#0(0"0(0#0#57"/Users/pablo/Documents/iNET/Classes/AboutViewController.m8632768896#1721"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/AboutViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/AboutViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/ContactViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/../ContactViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/ContactViewController.o /Users/pablo/Documents/iNET/Classes/../ContactViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224800.828922
+e322224800.908221
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/ContactViewController.o
+x/Users/pablo/Documents/iNET/Classes/../ContactViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendmemail:]':
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:31: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:32: warning: missing sentinel in function call
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendemail:]':
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:46: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol
+o/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:49: warning: format not a string literal and no format arguments
+lSLF07#2@70"Compile /Users/pablo/Documents/iNET/Classes/../ContactViewController.m322224800#322224800#0(821"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendmemail:]':/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:31: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:32: warning: missing sentinel in function call/Users/pablo/Documents/iNET/Classes/../ContactViewController.m: In function '-[ContactViewController sendemail:]':/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:46: warning: class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol/Users/pablo/Documents/iNET/Classes/../ContactViewController.m:49: warning: format not a string literal and no format arguments4(22@99"Class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol322224800#116#176#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#31#0#31#0#45"class '*' does not implement the '*' protocol0(22@33"Missing sentinel in function call322224800#292#110#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#32#0#32#0#0"0(22@99"Class 'ContactViewController' does not implement the 'MFMailComposeViewControllerDelegate' protocol322224800#517#176#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#46#0#46#0#45"class '*' does not implement the '*' protocol0(22@51"Format not a string literal and no format arguments322224800#693#128#0(6@62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m322219110#49#0#49#0#51"format not a string literal and no format arguments0(0#0#62"/Users/pablo/Documents/iNET/Classes/../ContactViewController.m8642731168#1728"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/../ContactViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/ContactViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/FirstViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/FirstViewController.o /Users/pablo/Documents/iNET/Classes/FirstViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322233731.948801
+e322233732.640423
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/FirstViewController.o
+x/Users/pablo/Documents/iNET/Classes/FirstViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalip]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:34: warning: unused variable 'trimURL'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:37: warning: control reaches end of non-void function
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalhost]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:40: warning: unused variable 'trimURL2'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:43: warning: control reaches end of non-void function
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController allinfo]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:46: warning: unused variable 'trimURL3'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:49: warning: control reaches end of non-void function
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: 'FirstViewController' may not respond to '-getIPAddress'
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: (Messages without a matching method signature
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: will be assumed to return 'id' and accept
+o/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: '...' as arguments.)
+lSLF07#2@65"Compile /Users/pablo/Documents/iNET/Classes/FirstViewController.m322233731#322233732#0(1511"/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalip]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:34: warning: unused variable 'trimURL'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:37: warning: control reaches end of non-void function/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController externalhost]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:40: warning: unused variable 'trimURL2'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:43: warning: control reaches end of non-void function/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController allinfo]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:46: warning: unused variable 'trimURL3'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:49: warning: control reaches end of non-void function/Users/pablo/Documents/iNET/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: 'FirstViewController' may not respond to '-getIPAddress'/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: (Messages without a matching method signature/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: will be assumed to return 'id' and accept/Users/pablo/Documents/iNET/Classes/FirstViewController.m:65: warning: '...' as arguments.)8(22@25"Unused variable 'trimURL'322233732#108#97#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#34#0#34#0#19"unused variable '*'0(22@40"Control reaches end of non-void function322233732#205#112#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#37#0#37#0#40"control reaches end of non-void function0(22@26"Unused variable 'trimURL2'322233732#427#98#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#40#0#40#0#19"unused variable '*'0(22@40"Control reaches end of non-void function322233732#525#112#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#43#0#43#0#40"control reaches end of non-void function0(22@26"Unused variable 'trimURL3'322233732#742#98#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#46#0#46#0#19"unused variable '*'0(22@40"Control reaches end of non-void function322233732#840#112#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#49#0#49#0#40"control reaches end of non-void function0(22@56"'FirstViewController' may not respond to '-getIPAddress'322233732#1061#128#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#65#0#65#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322233732#1189#117#0(6@57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m322227613#65#0#65#0#0"0(0#0#57"/Users/pablo/Documents/iNET/Classes/FirstViewController.m8619848000#1721"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/FirstViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/FirstViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/LocationViewController.o /Users/pablo/Documents/iNET/Classes/../LocationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224800.896225
+e322224801.115788
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/LocationViewController.o
+x/Users/pablo/Documents/iNET/Classes/../LocationViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pablo/Documents/iNET/Classes/../LocationViewController.m322224800#322224801#0(0"0(0#0#63"/Users/pablo/Documents/iNET/Classes/../LocationViewController.m8640827808#1730"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/../LocationViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/LocationViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/MBProgressHUD.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/MBProgressHUD.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/SecondViewController.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/../SecondViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/SecondViewController.o /Users/pablo/Documents/iNET/Classes/../SecondViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224800.788558
+e322224800.895877
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/SecondViewController.o
+x/Users/pablo/Documents/iNET/Classes/../SecondViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.m: In function '-[SecondViewController checkping:]':
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:13: warning: conflicting types for '-(id)checkping:(id)sender'
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.h:18: warning: previous declaration of '-(void)checkping:(id)sender'
+o/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:40: warning: control reaches end of non-void function
+lSLF07#2@69"Compile /Users/pablo/Documents/iNET/Classes/../SecondViewController.m322224800#322224800#0(483"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m: In function '-[SecondViewController checkping:]':/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:13: warning: conflicting types for '-(id)checkping:(id)sender'/Users/pablo/Documents/iNET/Classes/../SecondViewController.h:18: warning: previous declaration of '-(void)checkping:(id)sender'/Users/pablo/Documents/iNET/Classes/../SecondViewController.m:40: warning: control reaches end of non-void function3(22@49"Conflicting types for '-(id)checkping:(id)sender'322224800#113#125#0(6@61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m322177786#13#0#13#0#25"conflicting types for '*'0(22@53"Previous declaration of '-(void)checkping:(id)sender'322224800#238#129#0(6@61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.h322177340#18#0#18#0#0"0(22@40"Control reaches end of non-void function322224800#367#116#0(6@61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m322177786#40#0#40#0#40"control reaches end of non-void function0(0#0#61"/Users/pablo/Documents/iNET/Classes/../SecondViewController.m8629552896#1726"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/../SecondViewController.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/SecondViewController.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/iNETAppDelegate.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/Classes/iNETAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/iNETAppDelegate.o /Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224800.677769
+e322224800.792231
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/iNETAppDelegate.o
+x/Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m322224800#322224800#0(0"0(0#0#53"/Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m8640694336#1713"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/Classes/iNETAppDelegate.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/iNETAppDelegate.o0#
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/main.o "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/main.o /Users/pablo/Documents/iNET/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224800.677022
+e322224800.740129
+r1
+xCompileC
+xbuild/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/main.o
+x/Users/pablo/Documents/iNET/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/pablo/Documents/iNET/main.m322224800#322224800#0(0"0(0#0#34"/Users/pablo/Documents/iNET/main.m8640841920#1683"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -include /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch -c /Users/pablo/Documents/iNET/main.m -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/FirstView.xib"
+r0
+
+CCompileXIB "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/SecondView.xib"
+r0
+
+CCompileXIB /Users/pablo/Documents/iNET/FirstView.xib
+s322224797.063831
+e322224797.832741
+r1
+xCompileXIB
+x/Users/pablo/Documents/iNET/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib322224797#322224797#0(0"0(0#0#41"/Users/pablo/Documents/iNET/FirstView.xib8640317184#511"    cd /Users/pablo/Documents/iNET    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/FirstView.nib /Users/pablo/Documents/iNET/FirstView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/pablo/Documents/iNET/MainWindow.xib
+s322233851.337552
+e322233851.921982
+r1
+xCompileXIB
+x/Users/pablo/Documents/iNET/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/pablo/Documents/iNET/MainWindow.xib:109: warning: 'Selected Second View Controller (Is up?)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+o/Users/pablo/Documents/iNET/MainWindow.xib:108: warning: 'First View Controller (Network info)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+lSLF07#2@25"CompileXIB MainWindow.xib322233851#322233851#0(413"/* com.apple.ibtool.document.warnings *//Users/pablo/Documents/iNET/MainWindow.xib:109: warning: 'Selected Second View Controller (Is up?)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported./Users/pablo/Documents/iNET/MainWindow.xib:108: warning: 'First View Controller (Network info)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.2(22@130"'Selected Second View Controller (Is up?)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.322233851#18446744073709551615#0#0(6@42"/Users/pablo/Documents/iNET/MainWindow.xib322233846#109#0#109#0#0"0(22@126"'First View Controller (Network info)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.322233851#18446744073709551615#0#0(6@42"/Users/pablo/Documents/iNET/MainWindow.xib322233846#108#0#108#0#0"0(0#0#42"/Users/pablo/Documents/iNET/MainWindow.xib8620869280#513"    cd /Users/pablo/Documents/iNET    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/MainWindow.nib /Users/pablo/Documents/iNET/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/pablo/Documents/iNET/SecondView.xib
+s322224797.063317
+e322224797.832443
+r1
+xCompileXIB
+x/Users/pablo/Documents/iNET/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib322224797#322224797#0(0"0(0#0#42"/Users/pablo/Documents/iNET/SecondView.xib8641466944#513"    cd /Users/pablo/Documents/iNET    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/SecondView.nib /Users/pablo/Documents/iNET/SecondView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Default@2x.png" Default@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Icon@2x.png" Icon@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/chart.png" chart.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/chart@2x.png" chart@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/comment.png" comment.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/comment@2x.png" comment@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/info.png" info.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/info@2x.png" info@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/link.png" link.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/link@2x.png" link@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/logo.png" logo.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/logo@2x.png" logo@2x.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/man.png" man.png
+r0
+
+CCopyPNGFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/man@2x.png" man@2x.png
+r0
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon.png Icon.png
+s322233720.994724
+e322233721.970540
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon.png
+xIcon.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/NetServices.app/Icon.png Icon.png322233720#322233721#0(0"0(0#0#36"/Users/pablo/Documents/iNET/Icon.png8619608160#527"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/Icon.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon@2x.png Icon@2x.png
+s322233720.996160
+e322233722.107302
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/NetServices.app/Icon@2x.png Icon@2x.png322233720#322233722#0(0"0(0#0#39"/Users/pablo/Documents/iNET/Icon@2x.png8619135904#533"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/Icon@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart.png chart.png
+s322224797.065029
+e322224797.233797
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart.png
+xchart.png
+lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/NetServices.app/chart.png chart.png322224797#322224797#0(0"0(0#0#37"/Users/pablo/Documents/iNET/chart.png8637995200#529"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/chart.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart@2x.png chart@2x.png
+s322224797.233966
+e322224797.378967
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart@2x.png
+xchart@2x.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/NetServices.app/chart@2x.png chart@2x.png322224797#322224797#0(0"0(0#0#40"/Users/pablo/Documents/iNET/chart@2x.png8640408128#535"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/chart@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/chart@2x.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment.png comment.png
+s322224797.907941
+e322224797.949446
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment.png
+xcomment.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/NetServices.app/comment.png comment.png322224797#322224797#0(0"0(0#0#39"/Users/pablo/Documents/iNET/comment.png8644232192#533"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/comment.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment@2x.png comment@2x.png
+s322224797.949696
+e322224798.003978
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment@2x.png
+xcomment@2x.png
+lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/NetServices.app/comment@2x.png comment@2x.png322224797#322224798#0(0"0(0#0#42"/Users/pablo/Documents/iNET/comment@2x.png8642244288#539"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/comment@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/comment@2x.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info.png info.png
+s322224797.828697
+e322224797.907886
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info.png
+xinfo.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/NetServices.app/info.png info.png322224797#322224797#0(0"0(0#0#36"/Users/pablo/Documents/iNET/info.png8631236224#527"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/info.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info@2x.png info@2x.png
+s322224797.844156
+e322224797.906284
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info@2x.png
+xinfo@2x.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/NetServices.app/info@2x.png info@2x.png322224797#322224797#0(0"0(0#0#39"/Users/pablo/Documents/iNET/info@2x.png8607003392#533"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/info@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/info@2x.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link.png link.png
+s322224797.379485
+e322224797.661543
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link.png
+xlink.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/NetServices.app/link.png link.png322224797#322224797#0(0"0(0#0#36"/Users/pablo/Documents/iNET/link.png8631624608#527"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/link.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link@2x.png link@2x.png
+s322224797.661624
+e322224797.828203
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link@2x.png
+xlink@2x.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/NetServices.app/link@2x.png link@2x.png322224797#322224797#0(0"0(0#0#39"/Users/pablo/Documents/iNET/link@2x.png8640594336#533"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/link@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/link@2x.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo.png logo.png
+s322224797.845346
+e322224797.949558
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo.png
+xlogo.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/NetServices.app/logo.png logo.png322224797#322224797#0(0"0(0#0#36"/Users/pablo/Documents/iNET/logo.png8630967968#527"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/logo.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo@2x.png logo@2x.png
+s322224797.906360
+e322224798.088607
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo@2x.png
+xlogo@2x.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/NetServices.app/logo@2x.png logo@2x.png322224797#322224798#0(0"0(0#0#39"/Users/pablo/Documents/iNET/logo@2x.png8648053760#533"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/logo@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/logo@2x.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man.png man.png
+s322224797.951050
+e322224798.004750
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man.png
+xman.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/NetServices.app/man.png man.png322224797#322224798#0(0"0(0#0#35"/Users/pablo/Documents/iNET/man.png8641819744#525"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/man.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man.png0#
+
+CCopyPNGFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man@2x.png man@2x.png
+s322224798.004990
+e322224798.048644
+r1
+xCopyPNGFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man@2x.png
+xman@2x.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/NetServices.app/man@2x.png man@2x.png322224798#322224798#0(0"0(0#0#38"/Users/pablo/Documents/iNET/man@2x.png8640946976#531"    cd /Users/pablo/Documents/iNET    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pablo/Documents/iNET/man@2x.png /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/man@2x.png0#
+
+CCreateUniversalBinary "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/NetServices" normal "armv6 armv7"
+r0
+
+CCreateUniversalBinary /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices normal "armv6 armv7"
+s322233733.473368
+e322233733.816729
+r1
+xCreateUniversalBinary
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/NetServices.app/NetServices normal "armv6 armv7"322233733#322233733#0(0"0(0#0#39"/Users/pablo/Documents/iNET/armv6 armv78616480096#506"    cd /Users/pablo/Documents/iNET    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices -output /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices0#
+
+CGenerateDSYMFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app.dSYM" "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/NetServices"
+r0
+
+CGenerateDSYMFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app.dSYM /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices
+s322233733.816799
+e322233734.418224
+r1
+xGenerateDSYMFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app.dSYM
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/NetServices.app.dSYM build/Debug-iphoneos/NetServices.app/NetServices322233733#322233734#0(0"0(0#0#76"/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices8620049376#341"    cd /Users/pablo/Documents/iNET    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/NetServices -o /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app.dSYM0#
+
+CLd "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices" normal armv6
+r0
+
+CLd "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices" normal armv7
+r0
+
+CLd /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices normal armv6
+s322233733.250140
+e322233733.473228
+r1
+xLd
+x/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices
+xnormal
+xarmv6
+lSLF07#2@122"Link /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices322233733#322233733#0(0"0(0#0#0"8616902272#898"    cd /Users/pablo/Documents/iNET    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pablo/Documents/iNET/build/Debug-iphoneos -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -filelist /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -framework MessageUI -framework MapKit -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv6/NetServices0#
+
+CLd /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices normal armv7
+s322233732.640502
+e322233733.393430
+r1
+xLd
+x/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices
+xnormal
+xarmv7
+lSLF07#2@122"Link /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices322233732#322233733#0(0"0(0#0#0"8620410464#898"    cd /Users/pablo/Documents/iNET    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pablo/Documents/iNET/build/Debug-iphoneos -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -filelist /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -framework MessageUI -framework MapKit -o /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/Objects-normal/armv7/NetServices0#
+
+CProcessInfoPlistFile "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app/Info.plist" NetServices-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Info.plist NetServices-Info.plist
+s322233720.884618
+e322233720.957987
+r1
+xProcessInfoPlistFile
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Info.plist
+xNetServices-Info.plist
+lSLF07#2@30"Process NetServices-Info.plist322233720#322233720#0(0"0(0#0#50"/Users/pablo/Documents/iNET/NetServices-Info.plist31525614006435956#430"    cd /Users/pablo/Documents/iNET    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NetServices-Info.plist -genpkginfo /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app/Info.plist0#
+
+CProcessPCH /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-bdspcucdkvvoswazfmikvbpbncae/NetServices_Prefix.pch.gch NetServices_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-bgcgjvclqlrfdvesthysijouvpip/NetServices_Prefix.pch.gch NetServices_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch.gch NetServices_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s322224798.205838
+e322224799.451849
+r1
+xProcessPCH
+x/var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch.gch
+xNetServices_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile NetServices_Prefix.pch322224798#322224799#0(0"0(0#0#50"/Users/pablo/Documents/iNET/NetServices_Prefix.pch8635609472#1588"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv6 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -c /Users/pablo/Documents/iNET/NetServices_Prefix.pch -o /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-desvlxfponcqysbqqnmvxasjcyff/NetServices_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch.gch NetServices_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322224798.207588
+e322224800.271365
+r1
+xProcessPCH
+x/var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch.gch
+xNetServices_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile NetServices_Prefix.pch322224798#322224800#0(0"0(0#0#50"/Users/pablo/Documents/iNET/NetServices_Prefix.pch8647655712#1588"    cd /Users/pablo/Documents/iNET    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-generated-files.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-own-target-headers.hmap -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-all-target-headers.hmap -iquote /Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/NetServices-project-headers.hmap -F/Users/pablo/Documents/iNET/build/Debug-iphoneos -I/Users/pablo/Documents/iNET/build/Debug-iphoneos/include -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources/armv7 -I/Users/pablo/Documents/iNET/build/NetServices.build/Debug-iphoneos/NetServices.build/DerivedSources -c /Users/pablo/Documents/iNET/NetServices_Prefix.pch -o /var/folders/ce/ceXFjkvkHFa2560H8QO3Fk+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/NetServices_Prefix-grbrfvugwfpkhngealqkggbgwzgg/NetServices_Prefix.pch.gch0#
+
+CTouch "/Users/pablo/Desktop/PABLO/Desarrollo iPhone!/Apps JB/NetServices/build/Debug-iphoneos/NetServices.app"
+r0
+
+CTouch /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app
+s322233851.923716
+e322233851.925633
+r1
+xTouch
+x/Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app
+lSLF07#2@70"Touch /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app322233851#322233851#0(0"0(0#0#0"8590423296#246"    cd /Users/pablo/Documents/iNET    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pablo/Documents/iNET/build/Debug-iphoneos/NetServices.app0#
+
